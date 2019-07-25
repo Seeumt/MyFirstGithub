@@ -5,6 +5,7 @@ public class User {
     private String school;
     private String studentId;
     private String academy;
+    private String major;
 
 
 }
