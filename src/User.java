@@ -6,6 +6,6 @@ public class User {
     private String studentId;
     private String academy;
     private String major;
-    private String hobby;
+
 
 }
